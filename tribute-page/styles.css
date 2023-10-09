@@ -1,0 +1,47 @@
+body {
+    font-family: monospace;
+    font-size: 16px;
+}
+main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+body {
+    margin: 0;
+}
+
+h1,p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+figure {
+    background: white;
+    padding: 10px;
+    margin: 30px;
+}
+
+figcaption {
+    margin: 10px 10px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+h2 {
+
+}
+
+body {
+
+}
